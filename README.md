@@ -32,3 +32,13 @@ yarn start
 cd client
 yarn dev
 ```
+
+## IN ACTION
+<div>
+    <a href="https://www.loom.com/share/a26965000ad64176836017b98492d7b7">
+      <p>Code Review Application Overview 🚀 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a26965000ad64176836017b98492d7b7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a26965000ad64176836017b98492d7b7-c1bd6a83a29368e7-full-play.gif">
+    </a>
+  </div>
